@@ -1,0 +1,255 @@
+﻿Cidade,Lucro,Vendas
+Franco da Rocha,37.8,79
+Araraquara,17.6,88.4
+Crato,41.6,107.6
+Sorriso,16,123.6
+Catalão,52,148.6
+Itapeva,0,153.2
+Gurupi,34.4,181.6
+Jaboticabal,5.6,194
+Jataí,28.8,207.6
+Guarapuava,105,215.4
+Seropédica,86.4,227.6
+Cosmópolis,30.6,236.4
+Buriticupu,26.8,336
+Linhares,153.4,341.8
+Vitória da Conquista,127,377.4
+Campo Limpo Paulista,126.6,409.8
+Pato Branco,158.8,454
+Camaragibe,197.4,494.4
+Mogi das Cruzes,158.4,547.2
+Novo Cruzeiro,213,558.8
+Uberlândia,268.2,596.4
+Cidade Ocidental,6,626.4
+Sinop,254.2,645.8
+Carapicuíba,182.4,652.8
+Cubatão,327.6,668.8
+Palhoça,13.2,677.2
+Manacapuru,258,679
+Cruzeiro do Sul,268.4,758.6
+São Vicente,250.4,780.8
+Pouso Alegre,354.6,833.8
+Ipatinga,313.2,870.8
+Vitória de Santo Antão,98.8,937.6
+Coari,84.2,937.8
+Ilhéus,274.8,948
+Igarassu,140,958
+Araucária,347.2,964.8
+Barra do Piraí,462.4,966.4
+Simões Filho,439.6,976.4
+Mococa,195.2,980.8
+Campina Grande,69,986.4
+Poços de Caldas,176.8,1041.6
+Dourados,32.8,1100.8
+Aracati,242.8,1107.2
+Votuporanga,301.4,1181.2
+Ji-Paraná,161.4,1229.4
+Parintins,-1167.28,1265.52
+Sobral,292.2,1328.4
+Jacobina,-1029.24,1340.16
+Itapetininga,288.4,1378
+São Benedito,350,1397.2
+Bento Gonçalves,410.4,1410.6
+Arapongas,247.6,1413.8
+Caraguatatuba,452.4,1414
+Arcoverde,327.6,1426.8
+Garanhuns,397.8,1455
+Guarapari,58.4,1466
+Palmares,161,1498
+Londrina,428.6,1501
+Andradina,258.6,1522.2
+Itaituba,352.8,1547.2
+Praia Grande,354.6,1602.6
+Senhor do Bonfim,0,1711.6
+Várzea Grande,178.4,1785.6
+Águas Lindas de Goiás,410.4,1869.6
+Erechim,456.4,1905.4
+Jequié,541.6,1935.4
+Vilhena,172.0832,1954.4832
+Apucarana,675.6,1989.2
+Arapiraca,253.6,1990.4
+Penedo,778.8,1997.2
+Catanduva,317.2,2015.6
+Tianguá,343.2,2164.4
+Camocim,-1267.88,2233.52
+Floriano,436.9512,2319.7512
+Camaçari,666.8,2383
+Tatuí,935.2,2401
+Ariquemes,697,2420
+Uruguaiana,601.8,2435
+Rio Grande,329.4,2575.2
+Itapecerica da Serra,725.4,2709.8
+Rolândia,509.6,2963.6
+Vespasiano,1263.8,2986.4
+Santa Cruz do Sul,864.6,3031.2
+Navegantes,539.4,3041.2
+Canoas,857.6,3113
+Taboão da Serra,805.8,3270.8
+Contagem,930.2576,3464.2576
+Guaratinguetá,999,3546.6
+Guarujá,702.2,3565.6
+Farroupilha,1109.6,3580
+Lajeado,893.2,3586.4
+Eunápolis,464.8,3785.6
+Cassilândia,1131.6,4068.8
+Diadema,1040.8,4078.4
+Indaiatuba,443.5304,4274.3304
+Quixadá,-4051.68,4386.72
+Barretos,116,4433.8
+Santarém,1467.2,4451.2
+Paracatu,177.6,4452.8
+Cruzeiro,1439.2836,4647.8836
+Itu,871.2,4863.6
+Lins,837.6,4905.6
+Itapevi,1642.6,5036
+Bragança Paulista,1056.8,5183.8
+Pindamonhangaba,1046.8,5197
+Barreirinhas,-4879.12,5324.48
+Cambé,1450,5374
+Jundiaí,464.8,5377.4
+Sousa,449.4,5542.2
+Caçador,1221,5630.2
+Jurema,1134.704,5710.904
+Umuarama,1002.0752,5759.2752
+Juazeiro,1608.2,5914.8
+Jacareí,2260.3144,5914.9144
+Patrocínio,2533.6,6210.2
+Rio Branco,1670.6,6261.2
+Francisco Morato,923,6296.2
+Gravataí,2049.8144,6318.4144
+Birigui,2456.2,6686.6
+Cotia,2811.2,6717
+Vacaria,760.8,6743.2
+Itapecuru Mirim,363.2,6821
+Guanambi,1535.1012,6942.5012
+Passos,1583.4,7026.8
+Boa Esperança,2248.2,7259.6
+São José dos Campos,1231.6,7460.6
+Cajazeiras,2441.2752,7659.6752
+Barbacena,877.296,7736.496
+Bagé,1554.4,7805.4
+Barueri,360.2,7858.8
+Pontes e Lacerda,-7912.9768,7931.6232
+Mossoró,1796.3224,7945.9224
+São Pedro da Aldeia,1885.736,8129.736
+Araçatuba,1381.2,8394.2
+Rondonópolis,87.2,8723.2
+Lençóis Paulista,1399.8,8752.2
+Jaú,2148.6,8880.6
+Cabo Frio,2647.468,8898.468
+Santa Rosa,2725.6,9093.2
+Niterói,3097.8,9219.4
+Abreu e Lima,-812.24,9282.56
+Itaúna,2081.84,9512.64
+Itamaraju,2000.4,10002.6
+Osasco,1593.8,10180.2
+Lorena,2311,10431.8
+Pinheiro,1683.2,10504
+Oriximiná,3539.7576,10762.1576
+Pilar,-7940.658,10802.142
+Cruz das Almas,1394.04,10925.44
+Anápolis,2115,10998
+Sumaré,3453.8,11006.2
+Resende,2808.6,11059.4
+Barreiras,2033.5888,11090.5888
+Conselheiro Lafaiete,1664.2,11203.2
+Taubaté,3484,11241.8
+Teresina,3148.7564,11276.1564
+Barra Mansa,3851.6,11387.6
+Tupã,3170.2,11441.4
+José Bonifácio,1343.1256,11460.5256
+Araranguá,-11001.12,11462.48
+Juiz de Fora,4314.2,11543.8
+Balneário Camboriú,680,11620.6
+Divinópolis,1870.4,11693.6
+São Leopoldo,2251.214,11888.214
+Passo Fundo,1161.2,12202.6
+Santos,2813.4,12401.2
+Registro,-10168.12,12920.88
+Franca,2759.4,13096.8
+Brumado,-12992.92,13186.08
+Sorocaba,3149.6,13309.8
+Boa Vista,2412.3736,13862.7736
+Pirapora,-12486.32,13884.08
+Surubim,-12209.52,13896.08
+Grajaú,1981.4,14601.4
+Vassouras,-9422.6,14661.2
+Americana,4771.204,14695.204
+Vitória,3516,14847.6
+Gaspar,3997.9164,14900.3164
+Novo Gama,4641.9316,14977.9316
+Presidente Prudente,3998.8,15563.8
+Aracaju,3483.6,15765.8
+Ibirité,3530.6,16354
+Cuiabá,6511.4,16473.6
+Valparaíso de Goiás,3252.8,16545.2
+Santana de Parnaíba,4157.06,17019.26
+Petrópolis,227.4,17053.4
+Ijuí,7293.8,17116.8
+Pelotas,3960.9504,17330.3504
+Chapecó,7430,17569.6
+Ituiutaba,-38.280000000,17625.32
+São Miguel dos Campos,-15778.2,17625.6
+Altamira,6294.8744,18583.2744
+Paranaguá,3020.52,19506.52
+Teresópolis,5076.4064,19611.0064
+Guarulhos,5000.6,19847.6
+Mauá,3256.1292,20000.7292
+Caxias do Sul,5582.2,20228
+Paulista,8986.8184,21622.4184
+Maringá,5010.8,21683.4
+Colombo,6451.304,21704.704
+Bezerros,-19183.922,22181.078
+Toledo,6381.8,22922.8
+Salto,9881.2,22979.6
+Ananindeua,1290.96,23131.96
+Natal,4303.8696,23263.4696
+Nova Serrana,8265.504,23897.504
+Criciúma,4993.6,24462.2
+Gravatá,491.2,24609.6
+Ibiúna,3928.4,25019.8
+Duque de Caxias,4077.6,25044.8
+Bom Jesus da Lapa,-27917.1248,25140.8752
+Joinville,7456.2,25289.6
+Blumenau,-20255.7224,25683.2776
+Serra,1547,25842.4
+São Luís,3163.4144,25926.2144
+João Pessoa,5242.4528,26078.6528
+Caucaia,7037,26189.2
+Indaial,-21721.76,26737.84
+Ponte Nova,-21855.572,27029.828
+Feira de Santana,6153.9056,28390.5056
+Castanhal,11447.8,28762.8
+Limoeiro do Norte,-31236.8788,29570.3212
+Betim,6757.4192,30027.0192
+Francisco Beltrão,9004.8,30214.8
+Porto Alegre,5650.684,30349.884
+Campo Grande,7716.4016,30996.8016
+Belo Horizonte,-35189.64,31766.56
+Presidente Dutra,-23713.0148,32156.7852
+São Bernardo do Campo,2931.2,32286.8
+Fortaleza,5380.1072,32583.9072
+Valinhos,10560.4272,32956.8272
+Maceió,8190.2,33703.2
+Cabo de Santo Agostinho,6911.444,35227.644
+Santa Helena,10834.8,35628
+Itajaí,9996,35727.6
+Paço do Lumiar,2755.2,37443.6
+Limeira,5453.598,38353.198
+Açu,-40803.4048,38459.1952
+Uberaba,4103.4976,38767.4976
+Araguaína,4267,38780
+Goiânia,8206.4,39132.8
+Montes Claros,2383.896,40116.496
+Recife,11650.0168,43025.4168
+Santo André,15927,43502.2
+São Gonçalo,11684.41,47082.61
+Sapucaia do Sul,11440.6752,47767.6752
+Bayeux,13174.4,49065
+Ribeirão Preto,9486.0316,50440.8316
+Salvador,-56156.9952,50930.6048
+Macapá,12486.2516,56894.8516
+Manaus,17544.5992,58260.9992
+Curitiba,29601.6284,97754.0284
+Brasília,22147.7868,126726.3868
+São Paulo,94114.4548,389655.6548
