@@ -26,12 +26,16 @@ Os resultados da análise exploratória de dados indicaram que as cidades com as
 ## Conteúdo
   - Gráfico em barras que apresnta as vendas por cidade, no Brasil: [Link para o Dashboard no Tableau Public](https://public.tableau.com/app/profile/j.lia.castro/viz/VENDASPORCIDADES_17017113701900/Planilha1?publish=yes)
 
-  ![image](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/783f1de9-a8d1-4979-8349-38ebf7bd5a7f)
+  ![Planilha 1](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/ea889908-cebd-4a5e-95f1-009c3910ef17)
 
   - Lucro por estaddo brasileiro com Tooltips que informam dados ao clicar no estado:  [Link para o Dashboard no Tableau Public](https://public.tableau.com/app/profile/j.lia.castro/viz/VENDAS_17017953619380/VendasporEstado?publish=yes)
+    
   ![Vendas por Estado](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/66157a72-45dc-4424-bf39-ac83bd66e74b)
+  
   - Exemplo do uso das Tooltips, informando neste caso, informações acerca das vendas das filiais da superloja no estado do Rio Grande do Norte:
-  [image](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/b5130183-9341-4aa3-9187-69f294c4ba2e)
+    
+  ![image](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/c084065a-0080-41ec-ad5d-9a32da4db5cf)
+
 
 
 
