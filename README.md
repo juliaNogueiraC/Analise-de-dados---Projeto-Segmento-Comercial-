@@ -27,8 +27,10 @@ Os resultados da análise exploratória de dados indicaram que as cidades com as
   - Gráfico em barras que apresnta as vendas por cidade, no Brasil: [Link para o Dashboard no Tableau Public](https://public.tableau.com/app/profile/j.lia.castro/viz/VENDASPORCIDADES_17017113701900/Planilha1?publish=yes)
 
   ![image](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/783f1de9-a8d1-4979-8349-38ebf7bd5a7f)
-- Gráfico em Mapa Mundi que aprenda o Lucro por Estado Brasileiro:  [Link para o Dashboard no Tableau Public](https://public.tableau.com/app/profile/j.lia.castro/viz/VENDAS_17017953619380/VendasporEstado?publish=yes).
-  ![image](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/4ef081d1-2d5d-464d-a639-eb3f979b709d)
+
+- Luucro por estaddo brasileiro com Tooltips que informam dados ao clicar no estado:  [Link para o Dashboard no Tableau Public](https://public.tableau.com/app/profile/j.lia.castro/viz/VENDAS_17017953619380/VendasporEstado?publish=yes)
+  ![Vendas por Estado](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/66157a72-45dc-4424-bf39-ac83bd66e74b)
+
 
 
   - **Tecnologias Utilizadas:** Tableau, Excel.
