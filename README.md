@@ -28,8 +28,11 @@ Os resultados da análise exploratória de dados indicaram que as cidades com as
 
   ![image](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/783f1de9-a8d1-4979-8349-38ebf7bd5a7f)
 
-- Luucro por estaddo brasileiro com Tooltips que informam dados ao clicar no estado:  [Link para o Dashboard no Tableau Public](https://public.tableau.com/app/profile/j.lia.castro/viz/VENDAS_17017953619380/VendasporEstado?publish=yes)
+  - Lucro por estaddo brasileiro com Tooltips que informam dados ao clicar no estado:  [Link para o Dashboard no Tableau Public](https://public.tableau.com/app/profile/j.lia.castro/viz/VENDAS_17017953619380/VendasporEstado?publish=yes)
   ![Vendas por Estado](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/66157a72-45dc-4424-bf39-ac83bd66e74b)
+  - Exemplo do uso das Tooltips, informando neste caso, informações acerca das vendas das filiais da superloja no estado do Rio Grande do Norte:
+  [image](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/b5130183-9341-4aa3-9187-69f294c4ba2e)
+
 
 
 
