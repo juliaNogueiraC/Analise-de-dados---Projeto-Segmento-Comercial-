@@ -24,11 +24,11 @@ Os resultados da análise exploratória de dados indicaram que as cidades com as
 
 
 ## Conteúdo
-  - Gráfico em barras que apresnta as vendas por cidade, no Brasil: [Link para o Dashboard no Tableau Public](https://public.tableau.com/app/profile/j.lia.castro/viz/VENDASPORCIDADES_17017113701900/Planilha1?publish=yes)
+  - Gráfico em barras que apresnta as vendas por cidade, no Brasil: [Link para o Dashboard no Tableau Public](https://public.tableau.com/views/VENDASPORCIDADES_17017113701900/Planilha1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
   ![Planilha 1](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/ea889908-cebd-4a5e-95f1-009c3910ef17)
 
-  - Lucro por estaddo brasileiro com Tooltips que informam dados ao clicar no estado:  [Link para o Dashboard no Tableau Public](https://public.tableau.com/app/profile/j.lia.castro/viz/VENDAS_17017953619380/VendasporEstado?publish=yes)
+  - Lucro por estaddo brasileiro com Tooltips que informam dados ao clicar no estado:  [Link para o Dashboard no Tableau Public](https://public.tableau.com/views/VENDAS_17017953619380/VendasporEstado?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
     
   ![Vendas por Estado](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/66157a72-45dc-4424-bf39-ac83bd66e74b)
   
@@ -36,11 +36,16 @@ Os resultados da análise exploratória de dados indicaram que as cidades com as
     
   ![image](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/c084065a-0080-41ec-ad5d-9a32da4db5cf)
 
+  - Dashboard com todas as informações sobre as Vendas e Lucros, detalhadamente:  [Link para o Dashboard no Tableau Public](https://public.tableau.com/shared/6ZPGPDXBQ?:display_count=n&:origin=viz_share_link)
+
+  ![Vendas e Lucro por Região e Estado](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/7572efe1-87ae-444d-a85c-981e3b2264d4)
 
 
 
 
-  - **Tecnologias Utilizadas:** Tableau, Excel.
+
+
+  - **Tecnologias Utilizadas:** Tableau, Excel, Google Sheets.
 ## Conclusão
 
 Os resultados deste projeto indicam que a superloja deve concentrar seus esforços de marketing nas cidades de São Paulo, Rio de Janeiro e Belo Horizonte. Além disso, a empresa deve buscar oportunidades de aumentar suas vendas em outros estados brasileiros, especialmente nos estados do Nordeste e Norte.
