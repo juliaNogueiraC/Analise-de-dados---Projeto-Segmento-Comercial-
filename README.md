@@ -24,21 +24,24 @@ Os resultados da análise exploratória de dados indicaram que as cidades com as
 
 
 ## Conteúdo
-  - Gráfico em barras que apresnta as vendas por cidade, no Brasil: [Link para o Dashboard no Tableau Public](https://public.tableau.com/views/VENDASPORCIDADES_17017113701900/Planilha1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+  - Gráfico em barras que apresnta as vendas por cidade, no Brasil: [Link para o Dashboard no Tableau Public](https://public.tableau.com/views/VENDASPORCIDADES_17017113701900/Planilha1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
   ![Planilha 1](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/ea889908-cebd-4a5e-95f1-009c3910ef17)
 
-  - Lucro por estaddo brasileiro com Tooltips que informam dados ao clicar no estado:  [Link para o Dashboard no Tableau Public](https://public.tableau.com/views/VENDAS_17017953619380/VendasporEstado?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-    
-  ![Vendas por Estado](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/66157a72-45dc-4424-bf39-ac83bd66e74b)
-  
-  - Exemplo do uso das Tooltips, informando neste caso, informações acerca das vendas das filiais da superloja no estado do Rio Grande do Norte:
+   - Dashboard com todas as informações sobre Lucro por estado brasileiro com Tooltips que informam dados ao clicar no estado, detalhadamente:  [Link para o Dashboard no Tableau Public](https://public.tableau.com/shared/RTN35BRM3?:display_count=n&:origin=viz_share_link)
+
+  ![Vendas e Lucro por Região e Estado](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/7572efe1-87ae-444d-a85c-981e3b2264d4)
+
+- Exemplo do uso das Tooltips, informando neste caso, informações acerca das vendas das filiais da superloja no estado do Rio Grande do Norte:
     
   ![image](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/c084065a-0080-41ec-ad5d-9a32da4db5cf)
 
-  - Dashboard com todas as informações sobre as Vendas e Lucros, detalhadamente:  [Link para o Dashboard no Tableau Public](https://public.tableau.com/shared/6ZPGPDXBQ?:display_count=n&:origin=viz_share_link)
+- Dashboard com dados sobre as Vendas e Lucros por categoria de produtos. Uso de gráfico de dispersão para o auxílio da visualização: [Link para o Dashboard no Tableau Public](https://public.tableau.com/views/Vendaselucroporcategoria/Painel2?:language=en-US&:display_count=n&:origin=viz_share_link)
+  
+ ![Painel 2 (4)](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/9ff601a0-a4d8-4a93-8d5c-2497b98dd175)
 
-  ![Vendas e Lucro por Região e Estado](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/7572efe1-87ae-444d-a85c-981e3b2264d4)
+
+
 
 
 
