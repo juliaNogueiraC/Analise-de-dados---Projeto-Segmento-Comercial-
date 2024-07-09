@@ -28,7 +28,7 @@ Os resultados da análise exploratória de dados indicaram que as cidades com as
 
   ![Planilha 1](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/ea889908-cebd-4a5e-95f1-009c3910ef17)
 
-   - Dashboard com todas as informações sobre Lucro por estado brasileiro com Tooltips que informam dados ao clicar no estado, detalhadamente:  [Link para o Dashboard no Tableau Public](https://public.tableau.com/shared/RTN35BRM3?:display_count=n&:origin=viz_share_link)
+   - Dashboard com todas as informações sobre Lucro por estado brasileiro com Tooltips que informam dados ao clicar no estado, detalhadamente:  [Link para o Dashboard no Tableau Public](https://public.tableau.com/views/Vendaselucroporregio/VendaseLucroporRegioeEstado?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
   ![Vendas e Lucro por Região e Estado](https://github.com/juliaNogueiraC/Analise-de-dados---Projeto-Segmento-Comercial-/assets/69528739/7572efe1-87ae-444d-a85c-981e3b2264d4)
 
