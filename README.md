@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados com Tableau
+# Projeto de Análise de Dados de Vendas com Tableau
 
 ## Descrição
 Este projeto de análise de dados foi realizado com o objetivo de explorar os dados de vendas de uma superloja brasileira. Os dados foram obtidos do Google Sheets e incluem informações sobre as vendas, os lucros, a cidade e o estado de cada transação.
