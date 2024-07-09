@@ -60,7 +60,6 @@ Para atingir os objetivos deste projeto, recomenda-se que a superloja tome as se
 - Realize campanhas de marketing direcionadas às cidades com as maiores vendas;
 - Desenvolva novos produtos e serviços que atendam às necessidades dos consumidores de outros estados brasileiros;
 - Expanda sua rede de lojas para outros estados.
-- Este é apenas um resumo dos resultados deste projeto. Para obter mais informações, consulte o relatório completo, que está disponível em [link para o relatório].
 
 ## Como Usar
 1. Clone este repositório em sua máquina local.
